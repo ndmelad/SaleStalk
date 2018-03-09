@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\7333a41ee1507bc5e05586f243d4c3d7e75976d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5775883d5c417f55ab83fa70eff6232a45d65cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\9142802fe5bd6a9f47334ce9593e3964142543fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_abb292a38fea95b17be8d24c7af5516eed27de01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_62f90a387dc116ef733fef533dcba49f26bedcc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\a82e40b14282378057941c2241fb0968b0056993\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6e577de4c7de1f0b747839349e5e84210f0cb27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\cb13375bf14f27e2443becc40b6d6544259461d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cf7abe2a43ffb1d475e94d0877ef3abb95fff56e">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e0faf4e34df2af6b2feb4fd21aa3970251cc85f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="90abb97d7465a6848317ce2c2b0648b2898b5603">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2fb50cea0910f7a5b48cc9eeebfd416a105b0f51\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\b76d7396d3546e8b48d4d3656856dca378c5604d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0e97fa8abc1a1a90087ce8b093d11f1a8e0f1214">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\pre-dexed\debug\classes_19b3422b0211267f182035de3ce850b98acc9452.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\708c2d6f5d5024ed10ab7d656cea6b7becb2a744\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eca03ef99140ed76ba87b6a4cd92b15d37740c30\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\cb13375bf14f27e2443becc40b6d6544259461d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cf7abe2a43ffb1d475e94d0877ef3abb95fff56e">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\pre-dexed\debug\classes_3e0faf4e34df2af6b2feb4fd21aa3970251cc85f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\708c2d6f5d5024ed10ab7d656cea6b7becb2a744\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\pre-dexed\debug\classes_eca03ef99140ed76ba87b6a4cd92b15d37740c30.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\04ce28a49c235fc01c55af8d3650ffec9c0d7dee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="62e71cc187cfcb1ba382b05c5f39f5d903973656">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_058f38865233858be05dbd3841154b4feaa51bd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\b76d7396d3546e8b48d4d3656856dca378c5604d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0e97fa8abc1a1a90087ce8b093d11f1a8e0f1214">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19b3422b0211267f182035de3ce850b98acc9452\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_fbd53135388e8c0f2e70ee39fdf6c013b7110211\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\04ce28a49c235fc01c55af8d3650ffec9c0d7dee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="62e71cc187cfcb1ba382b05c5f39f5d903973656">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\pre-dexed\debug\classes_058f38865233858be05dbd3841154b4feaa51bd2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\ee1df9ebe5ca0331fd3a536c7eae64924f999627\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4182368957415a142f1371a4ee9e28f2f81ea4ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\b0e533d080e07ddb697a710187eec4e9553e38d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_877de10dbb5604f94486507e30179884f84aba16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\5d197248c227a900bd0773fee4a56bc83f3f6a56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d0e7b6197f5794011ad5e21e0233f0a2e8cf03c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\2d4f51a54f4160ae81135a09da5b028b10a46aa2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="89172db744f643c670ee7f9620b39ed460bc23fb">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\pre-dexed\debug\classes_053bbf4f23be58f5a670d333a0d51cfd9fe02054.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\d4cfa64286edd72d31ce8a04cbe5a9e961105f26\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_912eafd42b5bf29781b8fa4c316fb4383d1f7e87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\2d4f51a54f4160ae81135a09da5b028b10a46aa2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="89172db744f643c670ee7f9620b39ed460bc23fb">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_053bbf4f23be58f5a670d333a0d51cfd9fe02054\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\1daf6bfb46e0e062c05561e7c1e7db1b23c952ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab19e5a23d4a574e0c7ab77ad43bcdf73e2f8678\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\7975dc1c82cfac5141c7fe4d4609798819a76102\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e616b95568c5f38322799069485eb73f68ffec0a">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15bc223b1c7b2b92861ff8adbc57708d0fae6202\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.0\a7782471b2a0de8fec071b8094a8aaf61c46ab70\support-annotations-27.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7782471b2a0de8fec071b8094a8aaf61c46ab70">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\pre-dexed\debug\support-annotations-27.0.0_a57929311afbe6b9f212723ddbfea2e55ef6fb17.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\5e37e5508ee0c8831cd9acdd441558addd06f34d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ccfdb10e3b115437d0f61c1503449770dd1062b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.0\a7782471b2a0de8fec071b8094a8aaf61c46ab70\support-annotations-27.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7782471b2a0de8fec071b8094a8aaf61c46ab70">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-27.0.0_a57929311afbe6b9f212723ddbfea2e55ef6fb17\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\7975dc1c82cfac5141c7fe4d4609798819a76102\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e616b95568c5f38322799069485eb73f68ffec0a">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\pre-dexed\debug\classes_15bc223b1c7b2b92861ff8adbc57708d0fae6202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\pre-dexed\debug\common-1.0.0_145a1b79f16b86ee65c98d747c78e3befd00e380.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97f0d30d0e5cb1af5912e75da918084666479c57\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\pre-dexed\debug\common-1.0.0_fbd53135388e8c0f2e70ee39fdf6c013b7110211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_9b30fda2c339048446da42eb799a1772eafd8787.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\3a07ee6d64d92a1e20a4bcd9f2a778652d37766b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_055fa66e955fc95af9e64a586a9c269115f5eeaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_145a1b79f16b86ee65c98d747c78e3befd00e380\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a7d57e9eab14a9e85e77cf09798be1ce4063f76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\3df560acd90521027020a760fdd74b645578dcef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10b2c0f8e77bcc53f8c061e372df8bee88d52a36\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\f89f679385173e710f2b6749ae472c5fd14dae5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7103318ab8a16fe56a325b7554b088f4d49e4700">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\pre-dexed\debug\classes_809839050e915cff817685644271ca605eccb2c3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_9b30fda2c339048446da42eb799a1772eafd8787\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\63c901d8eca95130d2d50198c8d7b0cf03253bd9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9e3177fae918dbe4e58eccf197cfb56bfaf59803">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cda099fc6bbb941ab9fddc821be9a1771e142a11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\f89f679385173e710f2b6749ae472c5fd14dae5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7103318ab8a16fe56a325b7554b088f4d49e4700">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_809839050e915cff817685644271ca605eccb2c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\63c901d8eca95130d2d50198c8d7b0cf03253bd9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9e3177fae918dbe4e58eccf197cfb56bfaf59803">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\pre-dexed\debug\classes_cda099fc6bbb941ab9fddc821be9a1771e142a11.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\d6b10888430e07fd070f634f731a1a1ac3239ab2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0f2d2117cf13579197c6ccac56669665d9285664\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.android\build-cache\6f83cb07675473468c7634d0aca6efbe9188ca9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8458a7666a258f035042c07d148ae6a9e80cf0a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\7333a41ee1507bc5e05586f243d4c3d7e75976d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\ECommerce-App-Android-master\Sale_Stalk\app\build\intermediates\pre-dexed\debug\classes_f5775883d5c417f55ab83fa70eff6232a45d65cb.jar" />
+    </item>
+
+</items>
