@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "899031179239",
+    "firebase_url": "https://salestalk-3b0ed.firebaseio.com",
+    "project_id": "salestalk-3b0ed",
+    "storage_bucket": "salestalk-3b0ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899031179239:android:43f1159104cf6d89",
+        "android_client_info": {
+          "package_name": "com.example.nathan.sale_stalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899031179239-ntivjhrg4jthfc31bimu5grvh5ieu45l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nathan.sale_stalk",
+            "certificate_hash": "befaaa547ec2a23bc202088e5aae641a256977d7"
+          }
+        },
+        {
+          "client_id": "899031179239-f3cggv8vmn8k8q4fdqsma8qlk7orsjh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAatZn53KO5Zxu3w9EtH7VXFKHep5pZoqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899031179239-f3cggv8vmn8k8q4fdqsma8qlk7orsjh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
