@@ -1,0 +1,7 @@
+#Tue Mar 06 15:57:29 CST 2018
+base.0=C\:\\ECommerce-App-Android-master\\Sale_Stalk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2fb50cea0910f7a5b48cc9eeebfd416a105b0f51
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\ECommerce-App-Android-master\\Sale_Stalk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_62f90a387dc116ef733fef533dcba49f26bedcc4\\classes.dex
+base.1=C\:\\ECommerce-App-Android-master\\Sale_Stalk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_62f90a387dc116ef733fef533dcba49f26bedcc4
+file.0=C\:\\ECommerce-App-Android-master\\Sale_Stalk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2fb50cea0910f7a5b48cc9eeebfd416a105b0f51\\classes.dex

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">899031179239-f3cggv8vmn8k8q4fdqsma8qlk7orsjh1.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://salestalk-3b0ed.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">899031179239</string>
+    <string name="google_api_key" translatable="false">AIzaSyAatZn53KO5Zxu3w9EtH7VXFKHep5pZoqI</string>
+    <string name="google_app_id" translatable="false">1:899031179239:android:43f1159104cf6d89</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAatZn53KO5Zxu3w9EtH7VXFKHep5pZoqI</string>
+    <string name="google_storage_bucket" translatable="false">salestalk-3b0ed.appspot.com</string>
+</resources>

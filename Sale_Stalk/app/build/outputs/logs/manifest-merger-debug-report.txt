@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nathan\.android\build-cache\708c2d6f5d5024ed10ab7d656cea6b7becb2a744\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Nathan\.android\build-cache\7238646ca3053aa763428947c6dd0631bc646166\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Nathan\.android\build-cache\792deaa41665d89a6d947d5b4838f03e77eed5d6\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\Nathan\.android\build-cache\9142802fe5bd6a9f47334ce9593e3964142543fe\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Nathan\.android\build-cache\3a07ee6d64d92a1e20a4bcd9f2a778652d37766b\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Nathan\.android\build-cache\feb8d978acdd3b069e28ed5d1b0ce6836cc3ff5a\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nathan\.android\build-cache\ee1df9ebe5ca0331fd3a536c7eae64924f999627\output\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Nathan\.android\build-cache\b1a0b535fb5866be67d74e2ec8bdfcd5984cb0c2\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nathan\.android\build-cache\5d197248c227a900bd0773fee4a56bc83f3f6a56\output\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Nathan\.android\build-cache\cc8b3481c099a24d95600be0477126a7ee5ff18d\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Nathan\.android\build-cache\d4cfa64286edd72d31ce8a04cbe5a9e961105f26\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Nathan\.android\build-cache\1daf6bfb46e0e062c05561e7c1e7db1b23c952ce\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Nathan\.android\build-cache\3df560acd90521027020a760fdd74b645578dcef\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Nathan\.android\build-cache\6f83cb07675473468c7634d0aca6efbe9188ca9f\output\AndroidManifest.xml:25:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Nathan\.android\build-cache\7333a41ee1507bc5e05586f243d4c3d7e75976d1\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Nathan\.android\build-cache\45030613cde9eb0ca37a14c465cc5747da0e0690\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Nathan\.android\build-cache\7227cf6f95b5c5384dcffe024d661ee806c211db\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Nathan\.android\build-cache\074bbbfd59da7b5e1b327fba8c33d9d6fb264525\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Nathan\.android\build-cache\cded211d6f888118642abe0f9cb338a5a4071095\output\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.nathan.sale_stalk.LoginActivity
+ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:13:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.nathan.sale_stalk.RegisterActivity
+ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:21:9-63
+	android:name
+		ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:21:19-51
+activity#com.example.nathan.sale_stalk.MainActivity
+ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:23:9-59
+	android:name
+		ADDED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml:23:19-47
+uses-sdk
+INJECTED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Nathan\.android\build-cache\f89f679385173e710f2b6749ae472c5fd14dae5a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Nathan\.android\build-cache\7975dc1c82cfac5141c7fe4d4609798819a76102\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Nathan\.android\build-cache\b76d7396d3546e8b48d4d3656856dca378c5604d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nathan\.android\build-cache\708c2d6f5d5024ed10ab7d656cea6b7becb2a744\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Nathan\.android\build-cache\a82e40b14282378057941c2241fb0968b0056993\output\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Nathan\.android\build-cache\b0e533d080e07ddb697a710187eec4e9553e38d2\output\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Nathan\.android\build-cache\7238646ca3053aa763428947c6dd0631bc646166\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Nathan\.android\build-cache\792deaa41665d89a6d947d5b4838f03e77eed5d6\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage:10.0.1] C:\Users\Nathan\.android\build-cache\d6b10888430e07fd070f634f731a1a1ac3239ab2\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] C:\Users\Nathan\.android\build-cache\5e37e5508ee0c8831cd9acdd441558addd06f34d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\Nathan\.android\build-cache\9142802fe5bd6a9f47334ce9593e3964142543fe\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Nathan\.android\build-cache\3a07ee6d64d92a1e20a4bcd9f2a778652d37766b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Nathan\.android\build-cache\feb8d978acdd3b069e28ed5d1b0ce6836cc3ff5a\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nathan\.android\build-cache\ee1df9ebe5ca0331fd3a536c7eae64924f999627\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Nathan\.android\build-cache\b1a0b535fb5866be67d74e2ec8bdfcd5984cb0c2\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nathan\.android\build-cache\5d197248c227a900bd0773fee4a56bc83f3f6a56\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Nathan\.android\build-cache\cc8b3481c099a24d95600be0477126a7ee5ff18d\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Nathan\.android\build-cache\d4cfa64286edd72d31ce8a04cbe5a9e961105f26\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Nathan\.android\build-cache\1daf6bfb46e0e062c05561e7c1e7db1b23c952ce\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Nathan\.android\build-cache\3df560acd90521027020a760fdd74b645578dcef\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Nathan\.android\build-cache\6f83cb07675473468c7634d0aca6efbe9188ca9f\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Nathan\.android\build-cache\63c901d8eca95130d2d50198c8d7b0cf03253bd9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Nathan\.android\build-cache\04ce28a49c235fc01c55af8d3650ffec9c0d7dee\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Nathan\.android\build-cache\cb13375bf14f27e2443becc40b6d6544259461d6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Nathan\.android\build-cache\2d4f51a54f4160ae81135a09da5b028b10a46aa2\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Nathan\.android\build-cache\7333a41ee1507bc5e05586f243d4c3d7e75976d1\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Nathan\.android\build-cache\45030613cde9eb0ca37a14c465cc5747da0e0690\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Nathan\.android\build-cache\7227cf6f95b5c5384dcffe024d661ee806c211db\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Nathan\.android\build-cache\074bbbfd59da7b5e1b327fba8c33d9d6fb264525\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Nathan\.android\build-cache\cded211d6f888118642abe0f9cb338a5a4071095\output\AndroidManifest.xml:4:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\Nathan\.android\build-cache\3df560acd90521027020a760fdd74b645578dcef\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ECommerce-App-Android-master\Sale_Stalk\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Nathan\.android\build-cache\3a07ee6d64d92a1e20a4bcd9f2a778652d37766b\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Nathan\.android\build-cache\3a07ee6d64d92a1e20a4bcd9f2a778652d37766b\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Nathan\.android\build-cache\3a07ee6d64d92a1e20a4bcd9f2a778652d37766b\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Nathan\.android\build-cache\3a07ee6d64d92a1e20a4bcd9f2a778652d37766b\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nathan\.android\build-cache\ee1df9ebe5ca0331fd3a536c7eae64924f999627\output\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nathan\.android\build-cache\ee1df9ebe5ca0331fd3a536c7eae64924f999627\output\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nathan\.android\build-cache\ee1df9ebe5ca0331fd3a536c7eae64924f999627\output\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nathan\.android\build-cache\ee1df9ebe5ca0331fd3a536c7eae64924f999627\output\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nathan\.android\build-cache\ee1df9ebe5ca0331fd3a536c7eae64924f999627\output\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nathan\.android\build-cache\e16c3c4327f5e6c6485a7f2fd914a2690f02c41b\output\AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nathan\.android\build-cache\1cb6c9520599710885ef45cb76c827febf26bec7\output\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nathan\.android\build-cache\5d197248c227a900bd0773fee4a56bc83f3f6a56\output\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nathan\.android\build-cache\5d197248c227a900bd0773fee4a56bc83f3f6a56\output\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nathan\.android\build-cache\5d197248c227a900bd0773fee4a56bc83f3f6a56\output\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nathan\.android\build-cache\5d197248c227a900bd0773fee4a56bc83f3f6a56\output\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nathan\.android\build-cache\5d197248c227a900bd0773fee4a56bc83f3f6a56\output\AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Nathan\.android\build-cache\1daf6bfb46e0e062c05561e7c1e7db1b23c952ce\output\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Nathan\.android\build-cache\1daf6bfb46e0e062c05561e7c1e7db1b23c952ce\output\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Nathan\.android\build-cache\1daf6bfb46e0e062c05561e7c1e7db1b23c952ce\output\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Nathan\.android\build-cache\7333a41ee1507bc5e05586f243d4c3d7e75976d1\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Nathan\.android\build-cache\7333a41ee1507bc5e05586f243d4c3d7e75976d1\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Nathan\.android\build-cache\7333a41ee1507bc5e05586f243d4c3d7e75976d1\output\AndroidManifest.xml:26:13-58

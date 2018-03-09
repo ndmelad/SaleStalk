@@ -1,0 +1,4 @@
+#Tue Mar 06 15:57:12 CST 2018
+base.0=C\:\\ECommerce-App-Android-master\\Sale_Stalk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=C\:\\ECommerce-App-Android-master\\Sale_Stalk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex
