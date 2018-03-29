@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_cf139d69e01d72a335e08c16d2e77dc383de6f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e5bf70f3683146e4875c006624543cb0a13eac91">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.14.1_4e1a2307d0343ee73b84aba8fd7e466026fcae10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_de18ff5fbdaf11f68d8b49625cc9b3afd4086827.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_f296d34c47aa7f224144e78b7b38d05677abebf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_4b9f72c5e151384c93724beb90a0d30df68e1406.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_b6189354b78c97fd12104152c1e9a3c5892d570b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e340025bbaf3969a2b587ddb912419d74f85ad8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c77602d43223db798b1ca56cf307ab0ee3c0e63f">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.14.1_35c8fe3d5aaaee1607efcff56cda1cfe1e0e22d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b881010e06dc39be15b7465cd16492eedbab246f">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.14.1_626149582bc1b0cee1269b1df4f28e420b02b3ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_9b30fda2c339048446da42eb799a1772eafd8787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_9d2c5224221dd16d1858cdb62ef5dd1920176bac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_67e25bcc82f7138834db8b08f5b403fc37ce76f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_4a5ee35c7236bc32a440ee25e9f3c6d85aa24283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_5e5dd06a29abcd2cec361d3b2f9d97b7419c7ffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_216867780538e11f881fef2b6b4be8cf7b980cb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_20c3d0e53887aa7edc73c90db22efad757b3f985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_826545cf2ab5df9fd7a7fc2996dc499137007df6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_2bc3e32a6529e1f9edce30cfc632b803c9c8ac3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_b5fb574ab6d7695a2ecf05f532615f1f8e81d5de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cf5e2940501f8f7b9175df6491cebb84f5690f14">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.14.1_55b93d299186af542dac286b51790dd266991061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_fd290ad3239fce4b1b3de8b6c45e3d3089a8c446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ecc030d19f650a896b5831450b718910f8f9afbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_63c35732ae3278b1464ea5c02098e649c056d4ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_41567502e5dffddf586813e88d188c9f0bd4f03b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8795af3e130206443f2d5ed45f1b26067aff70dc">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.14.1_b191140e69e65c4aa19f3b7ad48d197f43817396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ECommerce\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\ECommerce\EcomSample-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9ab149b1f3d61f76695851d416486d983c349fec.jar" />
+    </item>
+
+</items>
